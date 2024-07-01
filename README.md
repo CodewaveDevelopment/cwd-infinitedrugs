@@ -15,6 +15,7 @@ These are the basic dependencies for the script unless you want to configure it 
 - Add More Drugs
 - Add ESX Support
 - Add More Compatibility 
+- Add an inbuilt sell system
 - Add a drug with [CWD-FUEL](https://github.com/CodewaveDevelopment/cwd-fuel)
 - Create detailed documentation for setup and customization
 - More anticheat features
