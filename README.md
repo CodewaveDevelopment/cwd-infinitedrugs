@@ -2,8 +2,6 @@
 These are the basic dependencies for the script unless you want to configure it to work for other things!
 
 - [QB-TARGET](https://github.com/qbcore-framework/qb-target)
-- [PS-INVENTORY](https://github.com/Project-Sloth/ps-inventory)
-  - The script was developed and tested with PS-Inventory. It should also be compatible with QB-Inventory and other inventories those exports.
 
 # Optional Dependencies
 - [Roxwood by Ambitioneers](https://ambitioneers.tebex.io/package/5349456) 
@@ -15,7 +13,6 @@ These are the basic dependencies for the script unless you want to configure it 
 - Add More Drugs
 - Add ESX Support
 - Add More Compatibility 
-- Add an inbuilt sell system
 - Add a drug with [CWD-FUEL](https://github.com/CodewaveDevelopment/cwd-fuel)
 - Create detailed documentation for setup and customization
 - More anticheat features

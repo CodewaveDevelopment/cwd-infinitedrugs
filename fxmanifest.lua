@@ -3,9 +3,6 @@ Version '1.0'
 Author 'https://www.github.com/CodewaveDevelopment'
 game 'gta5'
 
-dependencies { 'qb-target', "rm_oilrigheist", "k4mb1-oilrig" }
-
-
 client_scripts{
     '*/*.lua',
 }
